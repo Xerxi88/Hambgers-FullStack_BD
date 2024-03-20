@@ -26,6 +26,7 @@ Once you have cloned the repository, navigate to the project directory in your t
 
 
 cd your-angular-project
+
 npm install
 
 ## Running the Project
