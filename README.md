@@ -24,7 +24,7 @@ To get a local copy of this project, follow these steps:
 
 Once you have cloned the repository, navigate to the project directory in your terminal and run the following command to install all necessary dependencies:
 
-
+``less
 cd your-angular-project
 
 npm install
