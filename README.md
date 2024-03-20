@@ -1,27 +1,48 @@
-# ProyectoFrontendAngular
+# Hambgers with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
-## Development server
+This is a basic Angular project to get started with. It contains the basic structure and initial configurations to start developing web applications using Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Prerequisites
 
-## Code scaffolding
+Before getting started, make sure you have the following requirements installed:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Node.js and npm: [Download and install Node.js](https://nodejs.org/)
+- Angular CLI: You can install it globally using the following command: npm install -g @angular/cli
 
-## Build
+- Visual Studio Code: [Download and install Visual Studio Code](https://code.visualstudio.com/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Cloning the Repository
 
-## Running unit tests
+To get a local copy of this project, follow these steps:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Open your terminal or command line.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Once you have cloned the repository, navigate to the project directory in your terminal and run the following command to install all necessary dependencies:
 
-## Further help
+```bash
+cd your-angular-project
+npm install
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Running the Project
+After installing all dependencies, you can start the Angular development server by running the following command:
+
+bash
+ng serve
+
+This command will compile the application and serve it locally. Open your web browser and navigate to http://localhost:4200/ to see the application in action.
+
+Visual Studio Code
+If you want to edit the code using Visual Studio Code, simply open the project directory in VS Code by running the following command in your terminal:
+
+bash
+
+code .
+Now you're ready to start developing your Angular application!
+
+
+This README provides a basic guide to get started with an Angular project, including the steps to clone the reposit
