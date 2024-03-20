@@ -24,25 +24,25 @@ To get a local copy of this project, follow these steps:
 
 Once you have cloned the repository, navigate to the project directory in your terminal and run the following command to install all necessary dependencies:
 
-``less
-cd your-angular-project
 
-npm install
+"cd your-angular-project"
+
+"npm install"
 
 ## Running the Project
 After installing all dependencies, you can start the Angular development server by running the following command:
 
 
-ng serve
+"ng serve"
 
 This command will compile the application and serve it locally. Open your web browser and navigate to http://localhost:4200/ to see the application in action.
 
-Visual Studio Code
+## Visual Studio Code
+
 If you want to edit the code using Visual Studio Code, simply open the project directory in VS Code by running the following command in your terminal:
 
+"code ."
 
-
-code .
 Now you're ready to start developing your Angular application!
 
 
